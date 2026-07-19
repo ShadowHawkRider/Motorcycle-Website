@@ -771,6 +771,14 @@ body.detail-page .con-card {
     justify-content: flex-end;
 }
 
+.costs-intro {
+    color: rgb(175, 175, 175);
+    margin-bottom: 20px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
 .cost-item {
     display: flex;
     justify-content: space-between;
